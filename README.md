@@ -254,7 +254,6 @@ Prior versions of Jackett are no longer supported.
  * 3D Torrents (3DT)
  * 3D Vault
  * 4thD (4th Dimension) [![(invite needed)][inviteneeded]](#)
- * 52movie
  * 52PT
  * 720pier
  * Abnormal (ABN)
@@ -539,7 +538,6 @@ Prior versions of Jackett are no longer supported.
  * PTFans
  * PTFiles (PTF)
  * PThome [![(invite needed)][inviteneeded]](#)
- * PTLAO
  * PTLGS [![(invite needed)][inviteneeded]](#)
  * PTSBAO (烧包) [![(invite needed)][inviteneeded]](#)
  * PTSKIT

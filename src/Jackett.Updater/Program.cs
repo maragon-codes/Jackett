@@ -250,6 +250,7 @@ namespace Jackett.Updater
                 "Definitions/3evils.yml",
                 "Definitions/3wmg.yml",
                 "Definitions/420files.yml",
+                "Definitions/52movie.yml",
                 "Definitions/7torrents.yml",
                 "Definitions/abnormal.yml", // switch to *-API #16657
                 "Definitions/academictorrents.yml",
@@ -696,6 +697,8 @@ namespace Jackett.Updater
                 "Definitions/pt99.yml",
                 "Definitions/ptcdy.yml",
                 "Definitions/ptchina.yml",
+                "Definitions/ptlao.yml",
+                "Definitions/ptlao-api.yml",
                 "Definitions/ptlsp.yml",
                 "Definitions/ptmsg.yml",
                 "Definitions/ptorrent.yml", // renamed to pornxlab
